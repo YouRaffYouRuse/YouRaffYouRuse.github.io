@@ -255,17 +255,17 @@ a:focus {
 }
 
 #about {
-  background: url(../img/MythwrightGambit01.jpg) no-repeat center center  ;
+  background: url(../img/01.jpg) no-repeat center center  ;
   background-size: cover;
 }
 
 #recruitment {
-  background: url(../img/MythwrightGambit02.jpg) no-repeat center center  ;
+  background: url(../img/02.jpg) no-repeat center center  ;
   background-size: cover;
 }
 
 #contact {
-  background: url(../img/01.jpg) no-repeat center center  ;
+  background: url(../img/03.jpg) no-repeat center center  ;
   background-size: cover;
 }
 
